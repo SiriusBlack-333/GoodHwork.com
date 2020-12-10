@@ -13,5 +13,5 @@ You will need those technologies:
 * Bootstrap
 
 Is open source so you can make your aportation.
-This is a result by a tutorial, visit:
+This is the result of one tutorial, visit:
 http://www.faztweb.com
